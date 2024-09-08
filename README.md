@@ -53,7 +53,7 @@ A fully functional e-commerce platform where users can browse products, add them
 ## 📫 Contact Me
 
 - **Email:** iamakshaykumar30@gmail.com
-- **LinkedIn:** [Akshay Kumar](https://www.linkedin.com/in/yourprofile)
+- **LinkedIn:** [Akshay Kumar](https://www.linkedin.com/in/akshay-kumar-mm/)
 
 Feel free to reach out if you have any questions or opportunities to collaborate!
 
